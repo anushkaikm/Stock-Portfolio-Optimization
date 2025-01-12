@@ -39,21 +39,7 @@ The model utilizes **Excel Solver** and real-time stock data to optimize portfol
 
 ---
 
-### 📝 **Future Enhancements**  
-- **Web-Based Application**: Develop an online version for broader accessibility.  
-- **Predictive Analytics**: Incorporate machine learning for improved portfolio forecasting.  
-- **Expanded Data Sources**: Integrate APIs for real-time market data and news sentiment analysis.
-
-
----
-
-### 📸 **Screenshots**  
-Include screenshots of the dashboard and key model features to demonstrate usability and functionality.
-
----
-
 ### 🙌 **Acknowledgments**  
 This project was completed as part of the **DS 852 - Managerial Decision-Making** course at **San Francisco State University**. Special thanks to team members for their collaboration and insights.
 
 
-Let me know if you’d like any adjustments or additional sections!
